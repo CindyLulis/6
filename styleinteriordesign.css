@@ -1,0 +1,19 @@
+.container {
+	height: 300px; 
+}
+
+
+h1 {
+	color: white;
+	font-size: 25px;
+	text-align: center; 
+}
+
+nav {background-color: orange; 
+	display: inline-block;
+	height: 100%; 
+}
+
+.menu {
+	
+}
